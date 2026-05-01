@@ -25,4 +25,5 @@ func main() {
 
 	triple := multiplyBy(3)
 	fmt.Println(triple(344))
+
 }
