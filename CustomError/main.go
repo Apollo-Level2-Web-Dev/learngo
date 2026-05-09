@@ -60,7 +60,8 @@ func main() {
 	fmt.Println(ok)
 
 	if ok {
-
+		// do something
+		fmt.Println("User found")
 	}
 
 	fmt.Println("main ends")
